@@ -52,7 +52,7 @@ input {
   overflow: visible;
   box-sizing: border-box;
   color: #535054;
-  font-family: Merriweather;
+  font-family: Merriweather, sans-serif;
   font-feature-settings: normal;
   font-kerning: auto;
   font-language-override: normal;
